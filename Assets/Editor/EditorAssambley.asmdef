@@ -1,0 +1,16 @@
+{
+    "name": "EditorAssambley",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b7a83f6e374273c409f7bf68f83c1219"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
